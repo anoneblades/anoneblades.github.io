@@ -1,0 +1,183 @@
+body {
+	font-family: Russo One;
+	font-size: 10px;
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+
+
+.header {
+	background: rgb(182, 120, 152);
+}
+
+.header-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 90%;
+	margin: auto;
+}
+
+.logo {
+	font-size: 3em;
+	line-height: 2;
+}
+
+.menu {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.menu-item {
+	display: inline-block;
+	line-height: 2;
+}
+
+.menu-link {
+	text-decoration: none;
+	font-size: 2em;
+	color: black;
+	background: none;
+	height: 100%;
+	padding: 0px 20px;
+
+}
+
+.menu-link:hover {
+	color: blue	;
+	transition: 0.5s;
+}
+
+.search {
+	background: transparent;
+	border: none;
+	outline: none;
+	font-size: 1.4em;
+	background: url(../img/magnifying-glass.png);
+	background-size: 18px;
+	background-repeat: no-repeat;
+	padding-left: 25px;
+}
+
+.search:focus {
+	border-bottom: 1px solid black;
+}
+
+.face {
+	height: calc(100vh - 6em);
+	background: url(../img/фон.jpg);
+	background-size: cover;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.face::after {
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(18,9,188,0.3);
+	position: absolute
+}
+
+.maska {
+	text-align: center;
+}
+
+.face > .maska {
+	z-index: 1;
+}
+
+
+.lob {
+	font-size: 7em;
+}
+
+.brov {
+	font-size: 3em;
+}
+
+.b-left {
+	width: 250px;
+	height: 100px;
+	margin: 10px;
+	border: 3px solid black;
+	background: none;
+	color: black;
+	font-family: Russo One;
+	font-size: 24px;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+
+.b-right {
+	width: 250px;
+	height: 100px;
+	margin: 10px;
+	background: rgb(182, 120, 152);
+	color: black;
+	border: 3px solid black;
+	font-family: Russo One;
+	font-size: 24px;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+
+.b-left:hover {
+	background: rgb(182, 120, 152);
+	color: black; 
+	
+}
+
+.b-right:hover {
+	background: none;
+	color: black;
+	
+}
+
+.about {
+	padding: 50px 0;
+	text-align: center;
+}
+
+.about-text h3 {
+	font-size: 6em;
+	margin: 20px 0;
+}
+
+.about-text p {
+	font-size: 2em;
+	margin: 20px 0;
+	margin: auto;
+	width: 70%;
+}
+
+.about-row {
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.about-col {
+	width: calc(30% - 20px);
+	padding: 10px;
+	min-height: 200px;
+}
+
+.about-col img {
+	width: 30%;
+	margin-bottom: 20px;
+}
+
+.about-col p {
+	margin: auto;
+	width: 60%;
+	font-size: 1.5em;
+}
+
