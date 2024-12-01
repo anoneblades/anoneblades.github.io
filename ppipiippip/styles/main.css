@@ -1,14 +1,22 @@
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	font-family: Russo One;
 	font-size: 10px;
 	color: black;
 	margin: 0;
 	padding: 0;
+	background: url(../img/фон.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 
 .header {
-	background: rgb(182, 120, 152);
+	background: lightpink;
 }
 
 .header-flex {
@@ -67,7 +75,7 @@ body {
 
 .face {
 	height: calc(100vh - 6em);
-	background: url(../img/фон.jpg);
+/*	background: url(../img/фон.jpg);*/
 	background-size: cover;
 	position: relative;
 	display: flex;
@@ -113,23 +121,25 @@ body {
 	font-size: 24px;
 	text-transform: uppercase;
 	transition: 0.5s;
+	border-radius: 15px;
 }
 
 .b-right {
 	width: 250px;
 	height: 100px;
 	margin: 10px;
-	background: rgb(182, 120, 152);
+	background: lightpink;
 	color: black;
 	border: 3px solid black;
 	font-family: Russo One;
 	font-size: 24px;
 	text-transform: uppercase;
 	transition: 0.5s;
+	border-radius: 15px;
 }
 
 .b-left:hover {
-	background: rgb(182, 120, 152);
+	background: lightpink;
 	color: black; 
 	
 }
@@ -143,6 +153,7 @@ body {
 .about {
 	padding: 50px 0;
 	text-align: center;
+	background: lightpink;
 }
 
 .about-text h3 {
@@ -181,3 +192,88 @@ body {
 	font-size: 1.5em;
 }
 
+.services {
+	padding: 30px 0;
+	background: lightpink;
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+}
+
+.services-title {
+	text-align: center;
+}
+
+.services-title h3 {
+	font-size: 5em;
+}
+
+.services-title p {
+	font-size: 2.3em;
+}
+
+.shop {
+
+}
+
+.row {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.col {
+	width: 30%;
+	min-height: 150px;
+	min-width: 150px;
+	margin-top: 25px;
+}
+
+.card {
+	background: white;
+	text-align: center;
+	box-shadow: 0px 5px 12px 5px darkgrey;
+	border-radius: 15px;
+	transition: 0.5s;
+	
+}
+
+.card:hover {
+	transform: scale(1.1);
+}
+
+.card-img {
+	width: 35%;
+	margin: 15px 0;
+}
+
+.card-title {
+	font-size: 2em;
+}
+
+.card-description {
+	font-size: 1.5em;
+}
+
+.card-btn {
+	width: 80%;
+	background: lightpink;
+	line-height: 2;
+	font-family: Russo One;
+	margin: 15px 0;
+	border-radius: 7px;
+	border: 1.5px solid black;
+	box-shadow: 0px 0px 5px 2px darkgrey;
+	transition: 0.5s;
+}
+
+.card-btn:hover {
+	background: white;
+}
+
+.delitel {
+	height: 300px;
+
+}
