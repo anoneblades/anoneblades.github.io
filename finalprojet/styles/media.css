@@ -1,0 +1,1273 @@
+@media (width <= 375px) {
+	.shapka {
+		width: 317px;
+		height: 76px;
+		display: flex;
+		justify-content: space-between;
+		border-bottom: 1px solid rgba(204,204,204,1);
+		margin-top: 30px;
+		margin: auto;
+	}
+
+	.txtxtx {
+		display: none;
+	}
+
+	.dvs {
+		font-family: Poppins;
+		font-weight: 600;
+		font-size: 21.36px;
+		line-height: 27.77px;
+		color: black;
+		display: block;
+	}
+
+	.logo {
+		width: 46.41px;
+		height: 46.41px;
+	}
+
+	.menuu {
+		display: block;
+		width: 31.5px;
+		height: 22.33px;
+	}
+
+	.logott {
+		width: 141.46px;
+		height: 46.41px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.searcher {
+		display: none;
+	}
+
+	.connect {
+		display: none;
+	}
+
+	.line {
+		background: none;
+		width: 153.62px;
+		height: 11px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin: auto;
+	}
+
+	.linya {
+		background: rgba(140, 140, 140, 1);
+		width: 33.29px;
+		height: 1px;
+		display: block;
+	}
+
+	.over1 {
+		font-family: Poppins;
+		font-size: 9.25px;
+		font-weight: 600;
+		line-height: 11.1px;
+		color: rgba(140, 140, 140, 1);
+		display: block;
+		text-transform: uppercase;
+	}
+
+	.fourthframe {
+		width: 296.62px;
+		height: 3669.94px;
+		margin: auto;
+		margin-top: 75px;
+	}
+
+	.crdds {
+		width: 296.62px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.crdds1 {
+		display: none;
+	}
+
+	.crdds2 {
+		display: none;
+		width: 296.62px;
+	}
+
+	.tutu {
+		font-size: 30px;
+		font-family: Poppins;
+		font-weight: 600;
+	}
+
+	.batons1 {
+		width: 289.62px;
+		height: 37px;
+	}
+
+	.baton11 {
+		height: 37px;
+		width: 87.85px;
+	}
+
+	.baton21 {
+		height: 37px;
+		width: 93.52px;
+	}
+
+	.baton31 {
+		height: 37px;
+		width: 80.05px;
+	}
+
+	.icons {
+		width: 16.15px;
+		height: 16.15px;
+	}
+
+	.tekst {
+		font-size: 9.92px
+	}
+
+	.card {
+		margin-bottom: 35px;
+	}
+
+	.card11 {
+		display: none;
+	}
+
+	.card222 {
+		display: block;
+		margin-bottom: 0;
+	}
+
+	.card23 {
+		display: block;
+		margin-bottom: 35px;
+	}
+
+	.fourthframe {
+		border-bottom: none;
+		margin-bottom: 0;
+		padding: 0;
+	}
+
+	.load {
+		margin-top: 106.06px;
+		width: 41px;
+		height: 41px;
+	}
+
+	.podval1 {
+		display: none;
+	}
+
+	.podval222 {
+		background: #141416;
+		display: block;
+		width: 375px;
+		height: 426px;
+		margin: auto;
+		margin-top: 143px;
+	}
+
+	.strochkan1 {
+		width: 314px;
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.logottt {
+		width: 133.08px;
+		height: 43.47px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-top: 52px;
+	}
+
+	.tyt {
+		width: 43.47px;
+		height: 43.47px;
+	}
+
+	.dvss {
+		font-family: Poppins;
+		font-size: 20.01px;
+		font-weight: 600;
+		line-height: 26.02px;
+		color: white;
+	}
+
+	.iconss {
+		width: 115.21px;
+		height: 16px;
+		display: flex;
+		justify-content: space-between;
+		margin-top: 52px;
+	}
+
+	.iconnnn {
+		height: 16px;
+	}
+
+	.stolb {
+		width: 314px;
+		min-height: 100px;
+		margin: auto;
+		margin-top: 50px;
+		border-bottom: 1px solid #818181;
+	}
+
+	.prikols {
+		font-family: Inter;
+		font-weight: 500;
+		font-size: 14px;
+		line-height: 18.88px;
+		color: #B9B9B9;
+		text-transform: uppercase;
+		margin-bottom: 30px;
+	}
+
+	.darr {
+		font-size: 13.54px;
+		font-family: Inter;
+		font-weight: 500;
+		text-align: center;
+		line-height: 19.91px;
+		margin-top: 26px;
+		color: #999999;
+	}
+
+	.over1 {
+		display: block;
+		font-family: Poppins;
+		font-size: 9.25px;
+		line-height: 11.1px;
+		font-weight: 600;
+	}
+
+	.line {
+		width: 153.62px;
+		height: 11px;
+		display: flex;
+		justify-content: space-between;
+		margin: auto;
+	}
+
+	.linya {
+		width: 33.29px;
+	}
+
+	.firstframe {
+		display: none;
+	}
+
+	.qqqqqq {
+		display: block;
+		width: 400px;
+		height: 666.4px;
+		margin-left: 561px;
+		margin-top: 74px;
+	}
+
+	.texx {
+		width: 315.36px;
+		height: 310.61px;
+	}
+
+	.dacn {
+		font-size: 47.4px;
+		font-family: Poppins;
+		font-weight: 600;
+		text-align: center;
+		color: #141416;
+		line-height: 56.88px;
+		margin: 0;
+		letter-spacing: -1.9px;
+	}
+
+	.alot {
+		font-family: Inter;
+		font-weight: 400;
+		font-size: 11.38px;
+		color: #676767;
+		text-align: center;
+	}
+
+	.btttns {
+		width: 244px;
+		height: 47px;
+		display: flex;
+		justify-content: space-between;
+		margin: auto;
+		margin-top: 42.15px;
+	}
+
+	.kuku{
+		width: 128px;
+		height: 47px;
+		border-radius: 8.89px;
+		text-align: center;
+		color: white;
+		background: black;
+		font-size: 11.66px;
+		font-family: Poppins;
+		font-weight: 500;
+		line-height: 17.49px;
+		text-transform: uppercase;
+		border: none;
+	}
+
+	.kuku1 {
+		width: 99px;
+		height: 47px;
+		border-radius: 8.89px;
+		text-align: center;
+		color: black;
+		background: white;
+		font-size: 11.66px;
+		font-family: Poppins;
+		font-weight: 500;
+		line-height: 17.49px;
+		text-transform: uppercase;
+		border: 1.07px solid black;
+	}
+
+	.trust {
+		width: 241.56px;
+		height: 25.61px;
+		margin: auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-top: 19px;
+	}
+
+	.gstar {
+		width: 98.48px;
+		height: 24.18px;
+		bottom: 1px;
+	}
+
+	.stars {
+		width: 76.69px;
+		height: 12.24px;
+		bottom: 1px;
+		margin-bottom: -3px;
+	}
+
+	.cheture {
+		font-family: Plus Jakarta Sans;
+		color: #334155;
+		font-weight: 500;
+		font-size: 12.81px;
+		line-height: 19.22px;
+		opacity: 70%;
+		bottom: 1px;
+		margin: 0;
+		margin-bottom: -4px;
+	}
+
+	.kartinochki {
+		width: 345px;
+		height: 295.4px;
+		margin-top: 60.39px;
+	}
+
+	.is1 {
+		width: 208.49px;
+		height: 210.4px;
+	}
+
+	.strelkk {
+		width: 58.79px;
+		height: 56.71px;
+		margin-bottom: 110px;
+	}
+
+	.is3 {
+		width: 170.18px;
+		height: 171.74px;
+		position: absolute;
+		margin-left: -40px;
+		margin-top: 100px;
+	}
+
+	.phon {
+		width: 375px;
+		height: 589px;
+		background: rgba(241, 241, 241, 1);
+		margin: auto;
+	}
+
+	.weekly {
+		font-size: 30px;
+		font-weight: 600;
+		font-family: Poppins;
+		line-height: 26.92px;
+		color: #C5C5C5;
+	}
+
+	.rcntv {
+		display: none;
+	}
+
+	.cards {
+		display: block;
+		width: 198.49px;
+		height: 284.04px;
+		margin: auto;
+	}
+
+	.card {
+		width: 198.49px;
+		height: 284.04px;
+		padding-bottom: 14.71px;
+	}
+
+	.ava {
+		width: 178.56px;
+		height: 178.56px;
+		margin-left: 9.97px;
+		margin-top: 9.97px;
+	}
+
+	.time {
+		width: 80.99px;
+		height: 26.58px;
+		top: 19.93px;
+		right: 17.84px;
+	}
+
+	.tttime {
+		font-size: 9.97px;
+		font-family: Poppins;
+		font-weight: 500;
+		line-height: 14.95px;
+		letter-spacing: 0.08px;
+		color: white;
+	}
+
+	.fignya {
+		width: 171.92px;
+		height: 67.75px;
+		margin: auto;
+	}
+
+	.name {
+		font-size: 14.95px;
+		font-weight: 600;
+		font-family: Poppins;
+		line-height: 20.93px;
+		margin-left: 0;
+	}
+
+	.tytytyt {
+		width: 171.92px;
+		height: 36.54px;
+	}
+
+	.chto {
+		font-family: Poppins;
+		font-weight: 400;
+		font-size: 9.97px;
+		line-height: 14.95px;
+		letter-spacing: 0.08px;
+		color: #94A3B8;
+	}
+
+	.price {
+		width: 37.61px;
+		height: 17px;
+	}
+
+	.eu {
+		width: 14.95px;
+		height: 14.95px;
+	}
+
+	.cena {
+		font-family: Poppins;
+		font-weight: 400;
+		font-size: 11.63px;
+		line-height: 17.44px;
+	}
+
+	.place {
+		width: 85.96px;
+		height: 36.54px;
+		font-size: 9.97px;
+		font-family: Poppins;
+		font-weight: 700;
+		line-height: 14.95px;
+		letter-spacing: 0.08px;
+		border-radius: 8.31px;
+	}
+
+	.wrdd1 {
+		display: none;
+	}
+
+	.lll {
+		display: none;
+	}
+
+	.thirdframe {
+		width: 316.8px;
+		height: 512px;
+		margin-left: 532.5px;
+		margin-bottom: 0;
+	}
+
+	.top {
+		width: 100%;
+		min-height: 100px;
+	}
+
+	.sverhu {
+		width: 316.08px;
+		height: 18px;
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 25px;
+	}
+
+	.words {
+		display: none;
+	}
+
+	.wrdd2 {
+		font-size: 14px;
+		margin: 0;
+		display: block;
+	}
+
+	.collection {
+		font-size: 14px;
+		margin: 0;
+	}
+
+	.cooooolect {
+		font-size: 30px;
+	}
+
+	.aaa {
+		width: 46.24px;
+		height: 46.24px;
+	}
+
+	.imya {
+		width: 63px;
+		height: 48.71px;
+		margin: 0;
+	}
+
+	.nme {
+		font-size: 15.41px;
+		width: 63px;
+		height: 22px;
+		line-height: 22.58px;
+	}
+
+	.lw {
+		font-size: 12.52px;
+		min-width: 33px;
+		height: 19px;
+		line-height: 18.78px;
+		margin-top: 7.71px;
+	}
+
+	.stroka {
+		width: 315px;
+		height: 61.65px;
+	} 
+
+	.about {
+		width: 130.43px;
+		height: 48.71px;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.eutt1 {
+		display: none;
+	}
+
+	.eutt {
+		width: 63.27px;
+		height: 22px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.err {
+		width: 9.03px;
+		height: 14.81px;
+		margin-left: 4.15px;
+	}
+
+	.cifr {
+		font-size: 15.41px;
+	}
+
+	.pecrnt {
+		font-size: 13.49px;
+	}
+
+	.chisla {
+		width: 63.27px;
+		height: 49.41px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.pecrnt11 {
+		display: none;
+	}
+
+	.percnt22 {
+	display: block;
+	font-family: Poppins;
+	font-size: 13.49px;
+	font-weight: 500;
+	color: #E23333;
+    }
+
+    .exp {
+    	width: 84px;
+    	height: 28px;
+    	margin-left: 145px;
+    	margin-top: 0;
+    }
+
+    .top {
+    	margin-left: 29px;
+    }
+
+    .fourthframe {
+    	margin-top: 239.04px;
+    	height: 1524px;
+    }
+
+    .tutu {
+    	font-size: 30px;
+    	line-height: 37.5px;
+    }
+
+    .batons {
+    	width: 289.62px;
+    	height: 37px;
+    }
+
+    .baton {
+    	display: none;
+    }
+
+    .baton1 {
+    	width: 87.85px;
+    	height: 36.02px;
+    }
+
+    .baton2 {
+		width: 93.52px;
+		height: 36.02px;
+    }
+
+    .baton3 {
+    	width: 80.05px;
+    	height: 37px;
+    	display: flex;		
+    }
+
+    .crdds {
+    	margin-top: 75;
+    	margin-left: 46px;
+    	width: 283.46px;
+    	height: 1728;
+    	flex-wrap: wrap;
+    }
+
+    .exp1 {
+    	width: 84;
+    	height: 28px;
+    	margin-top: 50px;
+    	margin: auto;
+    	display: block;
+    }
+
+    .fifthframe {
+    	width: 321px;
+    	height: 545px;
+    	display: block;
+    	margin: auto;
+    }
+
+    .zglvk {
+    	text-align: center;
+    	height: 75px;
+    }
+
+    .punkti {
+    	display: none;
+    }
+
+    .eplr1{
+    	display: block;
+    	margin: auto;
+    }
+
+    .eplr {
+    	display: none;
+    }
+
+    .unl1 {
+    	font-size: 30px;
+    	line-height: 37.11px;
+    }
+
+    .unl2 {
+    	font-size: 30px;
+    	line-height: 37.11px;
+    }
+
+    .unleash {
+    	height: 75px;
+    	width: 314.51px;
+    	margin-bottom: 50px;
+    }
+
+    .shtukasprava {
+    	width: 100%;
+    }
+
+    .newbid {
+    	width: 155.69px;
+    	height: 40.06px;
+    	border-radius: 6.35px;
+    	margin-left: 160px;
+    	margin-top: -20px;
+    }
+
+    .ava4 {
+    	width: 30.86px;
+    	height: 21.78px;
+    }
+
+    .ava44 {
+    	width: 21.78px;
+    	height: 21.78px;
+    }
+
+    .dot {
+    	width: 3.63px;
+    	height: 3.63px;
+    }
+
+    .glka {
+    	width: 8.17px;
+    	height: 8.17px;
+    	margin-left: -5px;
+    	margin-top: -2px;
+    }
+
+    .ovo0 {
+    	width: 19.06px;
+    	height: 19.06px;
+    }
+
+    .texxx {
+    	width: 72.63px;
+    	height: 30px;
+    	margin-bottom: 4.61px;
+    }
+
+    .nebid {
+		font-size: 6.35px;
+		line-height: 10.89px;
+    }
+
+    .rotation {
+    	font-size: 6.35px;
+    	line-height: 10.89px;		
+    }
+
+    .eth {
+    	font-size: 5.45px;
+    	line-height: 9.08px;
+    }
+
+    .datee {
+    	font-size: 5.45px;
+    	line-height: 9.08px;
+    }
+
+    .picuree {
+    	width: 29.05px;
+    	height: 29.05px;
+    }
+
+    .ghghg {
+    	height: 11px;
+    	width: 72.63px;
+    }
+
+    .bestsellers {
+    	width: 153.99px;
+    	height: 243.86px;
+    	border-radius: 6.75px;
+    	margin: auto;
+    }
+
+    .best {
+    	font-size: 8.86px;
+    	padding-top: 12.66px;
+    	padding-left: 10.13px;
+    	margin: 0;
+    	margin-bottom: 11.21px;
+    }
+
+    .roww {
+    	width: 136.11px;
+    	height: 26.63px;
+    	margin-bottom: 7.18px;
+    }
+
+    .bout {
+    	width: 78.22px;
+    	height: 26.63px;
+    }
+
+    .avo {
+    	width: 23.3px;
+    	height: 23.3px;
+    }
+
+    .krug {
+    	display: none;
+    }
+
+    .nmmm {
+    	width: 46.6px;
+    	height: 19px;
+    }
+
+    .mainname {
+    	font-size: 5.83px;
+    	line-height: 9.99px;
+    }
+
+    .nemainname {
+    	font-size: 4.99px;
+    	line-height: 8.32px;
+    }
+
+    .fol {
+    	width: 31.31px;
+    	height: 13.66px;
+    	font-size: 5.83px;
+    	border-radius: 3.33px;
+    }
+
+    .fol1 {
+    	width: 39.31px;
+    	height: 13.66px;
+    	font-size: 5.83px;
+    	border-radius: 3.33px;
+    }
+
+    .rcntv1 {
+    	width: 153.99px;
+    	height: 103.79px;
+    	border-radius: 6.75px;
+    	padding: 0;
+    	margin-top: -70px;
+    }
+
+    .rcnt1 {
+    	font-size: 8.86px;
+    	line-height: 11.96px;
+    	margin: 0;
+    	padding: 0;
+    	margin-top: 11.13px;
+    	margin-left: 10.13px;
+    	margin-bottom: 11.47px;
+    }
+
+    .namees1 {
+    	width: 132.48px;
+    	height: 25.93px;
+    	margin: 0;
+    	margin-top: 11.47px;
+    	margin-left: 11.39px;
+    }
+
+
+    .neme1 {
+    	width: 55.36px;
+    	height: 20.26px;
+    	margin-top: 2.84px;
+    	display: flex;
+    	justify-content: space-between;
+    }
+
+    .ovo1 {
+    	width: 19.45px;
+    	height: 19.45px;
+    }
+
+    .dunskiykruzhok1 {
+    	width: 8.91px;
+    	height: 8.91px;
+    	font-size: 4.86px;
+    	margin-top: 12px;
+    	margin-right: -12px;
+    }
+
+    .nm1 {
+    	width: 27px;
+    	height: 20.24px;
+    }
+
+    .cl1 {
+    	font-size: 6.48px;
+    	line-height: 9.07px;
+    	width: 27px;
+    	height: 9px;
+    }
+
+    .ppppp1 {
+    	font-size: 5.27px;
+    	line-height: 7.9px;
+    	margin-top: 3.24px;
+    }
+
+    .chota1 {
+    	width: 27.1px;
+    	height: 21.24px;
+    	margin-top: 2.34px;
+    }
+
+    .ciena1 {
+    	width: 27.1px;
+    	height: 9px;
+    }
+
+    .countt1 {
+    	font-size: 6.48px;
+    	line-height: 9.07px;
+    }
+
+    .eut1 {
+    	width: 3.8px;
+    	height: 6.23px;
+    }
+
+    .percent1 {
+		font-size: 5.67px;
+		line-height: 8.51px;
+		margin-top: 3.24px;
+    }
+
+    .percentt1 {
+    	font-size: 5.67px;
+    	line-height: 8.51px;
+    	margin-top: 3.24px;		
+    }
+
+    .eplr1 {
+    	width: 123.01px;
+    	height: 44.25px;
+    	border-radius: 8.99px;
+    	display: flex;
+    	justify-content: space-around;
+    	margin: auto;
+    	margin-top: 97.36px;
+    }
+
+    .eplr1 > p {
+    	font-size: 11.07px;
+    	line-height: 13.84px;
+    }
+
+    .strell {
+    	width: 16.61px;
+    	height: 16.61px;
+    }
+
+    .sixthframe {
+    	width: 519px;
+    	height: 531.01px;
+    	margin: auto;
+    	margin-top: 106px;
+    }
+
+    .stround {
+    	width: 519px;
+    	height: 519px;
+    }
+
+    .ndround {
+    	width: 406.49px;
+    	height: 406.49px;
+    	margin: 56.25px;
+    }
+
+    .allinnd {
+    	width: 226px;
+    	height: 150.66px;
+    	margin: auto;
+    	margin-top: 125.22px;
+    }
+
+    .jtc {
+    	width: 137px;
+    	height: 54px;
+    }
+
+    .h111 {
+		font-size: 22.01px;
+		line-height: 26.61px;
+		text-align: center;
+    }
+
+    .h112 {
+    	font-size: 22.01px;
+    	line-height: 26.61px;
+    	text-align: center;		
+    }
+
+    .our {
+    	display: none;
+    }
+
+    .ourr11 {
+    	display: block;
+    	font-size: 8.8px;
+    	line-height: 15.65px;
+    	width: 226px;
+    	height: 32px;
+    	opacity: 70%;
+    	font-family: Poppins;
+		font-weight: 400;
+		color: #12141D;
+		text-align: center;
+		margin: auto;
+		margin-top: 14.52px;
+    }
+
+    .joc {
+    	width: 99.3px;
+    	height: 26.9px;
+    	font-size: 7.22px;
+    	line-height: 9.03px;
+    	border-radius: 5.87px;
+    	margin: auto;
+    	margin-top: 23.24px;
+    	margin-left: 63px;
+    }
+
+    .krugiLOL1 {
+    	width: 31.8px;
+    	height: 31.8px;
+    	margin-top: 24.46px;
+    	margin-left: 106.15px;
+    }
+
+    .krugi {
+    	width: 25.22px;
+    	height: 25.22px;
+    	margin-top: 49.89px;
+    	margin-left: 417.74px;
+    }
+
+    .krugi1 {
+    	width: 25.22px;
+    	height: 25.22px;
+    	margin-top: 2.4px;
+    	margin-left: 265.13px;
+    }
+
+    .krugi4 {
+    	width: 25.22px;
+    	height: 25.22px;
+    	margin-top: 103.21px;
+    	margin-left: 7.34px;
+    }
+
+    .krugi2 {
+    	width: 25.22px;
+    	height: 25.22px;
+    	margin-top: 505.79px;
+    	margin-left: 259.26px;
+    }
+
+    .krugi5 {
+    	width: 25.22px;
+    	height: 25.22px;
+    	margin-top: 347.31px;
+    	margin-left: 313.07px;
+    }
+
+    .krugiLOL2 {
+    	display: none;
+    }
+
+    .krugi3 {
+    	display: none;
+    }
+
+    .krugiLOL3 {
+    	display: none;
+    }
+
+    .seventhframe {
+    	width: 315px;
+    	height: 382.53px;
+    	margin: auto;
+    	margin-top: 146.45px;
+    }
+
+    .hhh {
+    	width: 215px;
+    	height: 56px;
+    	margin: auto;
+    }
+
+    .hblack {
+    	font-size: 23.64px;
+    	line-height: 28.37px;
+    	margin: 0;
+    	padding: 0;
+    	width: 215px;
+    	height: 30px;
+    	text-align: center;
+    }
+
+    .hgrey {
+		font-size: 23.64px;
+		line-height: 28.37px;
+		padding: 0;
+		width: 215px;
+		height: 30px;
+		text-align: center;
+    }
+
+    .qstns {
+    	width: 315px;
+    	height: 259.51px;
+    }
+
+    .qstn {
+    	width: 315px;
+    	height: 29.51px;
+    	padding: 0;
+    }
+
+    .qq {
+    	max-width: 280px;
+    	height: 32px;
+    	font-size: 12.3px;
+    	line-height: 31.12px;
+    	margin: 0;
+    }
+
+    .plus {
+    	width: 15.82px;
+    	height: 15.82px;
+    }
+
+    .qstn11 {
+    	display: none;
+    }
+
+    .qstn12 {
+    	width: 315px;
+    	height: 29.51px;
+    	padding: 0;
+    	display: flex;
+    	justify-content: space-between;
+    }
+
+    .prikol {
+    	width: 315px;
+    	height: 211px;
+    	display: block;
+    	border-radius: 14.87px;
+    	margin-top: 112px;
+    }
+
+    .sleva {
+    	width: 236px;
+    	height: 106.54px;
+    	margin: auto;
+    	padding-top: 21.91px;
+    }
+
+    .sleva > h3 {
+    	font-size: 22.3px;
+    	line-height: 28.99px;
+    	text-align: center;
+    }
+
+    .sleva > p {
+    	font-size: 10.04px;
+    	line-height: 13.05px;
+    	text-align: center;
+    	margin-top: 5.93px;
+    }
+
+    .btnnns {
+    	width: 196.54px;
+    	height: 33.53px;
+    	display: flex;
+    	justify-content: space-between;
+    	margin: auto;
+    	margin-top: 25.08px;
+    }
+
+    .bn1 {
+    	width: 90.71px;
+    	height: 33.65px;
+    	font-size: 10.58px;
+    	line-height: 13.76px;
+    	border-radius: 6.05px;
+    }
+
+    .bn2 {
+    	width: 90.71px;
+    	height: 33.65px;
+    	font-size: 10.58px;
+    	line-height: 13.76px;
+    	border-radius: 6.05px;
+    }
+
+    .sprava {
+    	display: none;
+    }
+
+    .sprav4 {
+    	position: absolute;
+    	display: block;
+    	width: 252.61px;
+    	height: 129.22px;
+    	margin-top: 36.56px;
+    	margin-left: 30.22px;
+    }
+
+    .podval {
+    	display: none;
+    }
+
+    .podval222 {
+    	display: block;
+    }
+}
